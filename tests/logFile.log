@@ -1,0 +1,150 @@
+2022-10-30 12:34:38,243 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 12:34:38,414 :INFO :test_formSubmission :firstName is - Rakesh Sharma
+2022-10-30 12:34:39,122 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 12:34:39,122 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 12:34:39,361 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 12:34:39,361 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 12:34:39,498 :INFO :test_formSubmission :firstName is - Kalpana Chawla
+2022-10-30 12:34:39,498 :INFO :test_formSubmission :firstName is - Kalpana Chawla
+2022-10-30 12:34:40,130 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 12:34:40,130 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 12:34:40,131 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 12:34:40,131 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 12:34:44,066 :INFO :test_e2e :Getting all card titles - 
+2022-10-30 12:34:44,116 :INFO :test_e2e :iphone X
+2022-10-30 12:34:44,141 :INFO :test_e2e :Samsung Note 8
+2022-10-30 12:34:44,162 :INFO :test_e2e :Nokia Edge
+2022-10-30 12:34:44,186 :INFO :test_e2e :Blackberry
+2022-10-30 12:34:44,523 :INFO :test_e2e :Entering country Name.
+2022-10-30 12:34:50,116 :INFO :test_e2e :Text received - ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-10-30 12:40:08,978 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 12:40:09,145 :INFO :test_formSubmission :firstName is - Rakesh Sharma
+2022-10-30 12:40:09,889 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 12:40:09,890 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 12:40:10,232 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 12:40:10,232 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 12:40:10,386 :INFO :test_formSubmission :firstName is - Kalpana Chawla
+2022-10-30 12:40:10,386 :INFO :test_formSubmission :firstName is - Kalpana Chawla
+2022-10-30 12:40:11,083 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 12:40:11,083 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 12:40:11,083 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 12:40:11,083 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 12:40:15,314 :INFO :test_e2e :Getting all card titles - 
+2022-10-30 12:40:15,358 :INFO :test_e2e :iphone X
+2022-10-30 12:40:15,379 :INFO :test_e2e :Samsung Note 8
+2022-10-30 12:40:15,399 :INFO :test_e2e :Nokia Edge
+2022-10-30 12:40:15,422 :INFO :test_e2e :Blackberry
+2022-10-30 12:40:15,711 :INFO :test_e2e :Entering country Name.
+2022-10-30 12:40:21,292 :INFO :test_e2e :Text received - ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-10-30 12:40:21,292 :INFO :test_e2e :Console Message - Test Completed Successfully
+2022-10-30 12:43:44,070 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 12:43:44,293 :INFO :test_formSubmission :firstName is - Rakesh Sharma
+2022-10-30 12:43:45,020 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 12:43:45,020 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 12:43:45,273 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 12:43:45,273 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 12:43:45,418 :INFO :test_formSubmission :firstName is - Kalpana Chawla
+2022-10-30 12:43:45,418 :INFO :test_formSubmission :firstName is - Kalpana Chawla
+2022-10-30 12:43:46,093 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 12:43:46,093 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 12:43:46,093 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 12:43:46,093 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 12:43:50,451 :INFO :test_e2e :Getting all card titles - 
+2022-10-30 12:43:50,502 :INFO :test_e2e :iphone X
+2022-10-30 12:43:50,525 :INFO :test_e2e :Samsung Note 8
+2022-10-30 12:43:50,546 :INFO :test_e2e :Nokia Edge
+2022-10-30 12:43:50,570 :INFO :test_e2e :Blackberry
+2022-10-30 12:43:50,874 :INFO :test_e2e :Entering country Name.
+2022-10-30 12:43:56,527 :INFO :test_e2e :Text received - ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-10-30 12:43:56,527 :INFO :test_e2e :Console Message - Test Completed Successfully
+2022-10-30 12:57:42,272 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 12:57:42,456 :INFO :test_formSubmission :firstName is - Rakesh Sharma
+2022-10-30 12:57:43,193 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 12:57:43,193 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 12:57:43,446 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 12:57:43,446 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 12:57:43,614 :INFO :test_formSubmission :firstName is - Kalpana Chawla
+2022-10-30 12:57:43,614 :INFO :test_formSubmission :firstName is - Kalpana Chawla
+2022-10-30 12:57:44,441 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 12:57:44,441 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 12:57:44,441 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 12:57:44,441 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 12:57:48,826 :INFO :test_e2e :Getting all card titles - 
+2022-10-30 12:57:49,119 :INFO :test_e2e :iphone X
+2022-10-30 12:57:49,148 :INFO :test_e2e :Samsung Note 8
+2022-10-30 12:57:49,170 :INFO :test_e2e :Nokia Edge
+2022-10-30 12:57:49,200 :INFO :test_e2e :Blackberry
+2022-10-30 12:57:49,684 :INFO :test_e2e :Entering country Name.
+2022-10-30 12:57:55,568 :INFO :test_e2e :Text received - ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-10-30 12:57:55,568 :INFO :test_e2e :Console Message - Test Completed Successfully
+2022-10-30 13:16:04,784 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 13:16:04,964 :INFO :test_formSubmission :firstName is - Rakesh Sharma
+2022-10-30 13:16:05,660 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 13:16:05,660 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 13:16:05,952 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 13:16:05,952 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 13:16:06,136 :INFO :test_formSubmission :firstName is - Kalpana Chawla
+2022-10-30 13:16:06,136 :INFO :test_formSubmission :firstName is - Kalpana Chawla
+2022-10-30 13:16:06,912 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 13:16:06,912 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 13:16:06,912 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 13:16:06,912 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 13:16:11,821 :INFO :test_e2e :Getting all card titles - 
+2022-10-30 13:16:11,870 :INFO :test_e2e :iphone X
+2022-10-30 13:16:11,893 :INFO :test_e2e :Samsung Note 8
+2022-10-30 13:16:11,916 :INFO :test_e2e :Nokia Edge
+2022-10-30 13:16:11,938 :INFO :test_e2e :Blackberry
+2022-10-30 13:16:12,277 :INFO :test_e2e :Entering country Name.
+2022-10-30 13:16:17,900 :INFO :test_e2e :Text received - ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-10-30 13:16:17,901 :INFO :test_e2e :Console Message - Test Completed Successfully
+2022-10-30 15:25:23,138 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 15:27:05,315 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 15:27:05,489 :INFO :test_formSubmission :firstName is - Rakesh Sharma
+2022-10-30 15:27:06,147 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 15:27:06,147 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 15:27:06,398 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 15:27:06,398 :INFO :test_formSubmission :Filling data in the form - 
+2022-10-30 15:27:06,538 :INFO :test_formSubmission :firstName is - Kalpana Chawla
+2022-10-30 15:27:06,538 :INFO :test_formSubmission :firstName is - Kalpana Chawla
+2022-10-30 15:27:07,179 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 15:27:07,179 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-10-30 15:27:07,180 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-10-30 15:27:07,180 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-11-03 16:23:22,466 :INFO :test_formSubmission :Filling data in the form - 
+2022-11-03 16:23:22,623 :INFO :test_formSubmission :firstName is - Rakesh Sharma
+2022-11-03 16:23:23,286 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-11-03 16:23:23,286 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-11-03 16:23:24,135 :INFO :test_formSubmission :Filling data in the form - 
+2022-11-03 16:23:24,135 :INFO :test_formSubmission :Filling data in the form - 
+2022-11-03 16:23:24,276 :INFO :test_formSubmission :firstName is - Kalpana Chawla
+2022-11-03 16:23:24,276 :INFO :test_formSubmission :firstName is - Kalpana Chawla
+2022-11-03 16:23:24,973 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-11-03 16:23:24,973 :INFO :test_formSubmission :Console Message - ×
+Success! The Form has been submitted successfully!.
+2022-11-03 16:23:24,973 :INFO :test_formSubmission :Console Message - Test Completed Successfully
+2022-11-03 16:23:24,973 :INFO :test_formSubmission :Console Message - Test Completed Successfully
